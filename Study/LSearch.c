@@ -11,7 +11,7 @@ int LSearch(int ar[], int len, int target) //순차 탐색 알고리즘 적용�
     return -1;  //찾지 못했음을 의미하는 값 반환
 }
 
-int main(void)
+int Start(void)
 {
     int arr[]={3,5,2,4,9};
     int idx;
