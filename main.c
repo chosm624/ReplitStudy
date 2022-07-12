@@ -1,8 +1,9 @@
 #include <stdio.h>
-#include "StudyHeader/LSearch.h"
+#include "StudyHeader/HanoiTowerSolu.h"
 
-int main(void) {
+int main(void) 
+{
   printf("Hello World\n");
-  LSearch();
+  HanoiToWerSolu();
   return 0;
 }
